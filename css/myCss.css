@@ -1,0 +1,44 @@
+div{
+    padding: 5px;
+    margin: 5px;
+}
+
+hr{
+    border: 1px solid black;
+}
+
+body{
+    padding: 5px;
+    margin: 5px;
+}
+
+header{
+    border-bottom: 1px solid;
+}
+
+.content-block{
+    border: 1px solid black;
+    display: inline;
+    float: left;
+}
+
+#main_block_content{
+    width: 60%;
+}
+
+#CandidateDetailPage{
+    width: 35%;
+}
+
+.EventDetailContainer{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.EventDetailHead{
+
+}
+
+.EventDetailBody{
+
+}
