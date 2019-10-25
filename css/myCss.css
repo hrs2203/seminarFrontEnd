@@ -4,7 +4,7 @@ div{
 }
 
 hr{
-    border: 1px solid black;
+    border: 0.5px solid black;
 }
 
 body{
@@ -13,11 +13,11 @@ body{
 }
 
 header{
-    border-bottom: 1px solid;
+    border-bottom: 0.5px solid;
 }
 
 .content-block{
-    border: 1px solid black;
+    /* border: 0.5px solid black; */
     display: inline;
     float: left;
 }
@@ -26,12 +26,12 @@ header{
     width: 60%;
 }
 
-#CandidateDetailPage{
+#ExpertDetailPage{
     width: 35%;
 }
 
 .EventDetailContainer{
-    border: 1px solid black;
+    border: 0.5px solid black;
     border-radius: 10px;
 }
 
@@ -40,5 +40,18 @@ header{
 }
 
 .EventDetailBody{
+    text-align: justify;
+}
+
+.ExpertDetailPanel{
+    border: 0.5px solid black;
+    border-radius: 10px;
+}
+
+.ExpertName{
+    font: bold;
+}
+
+.ExpertDetial{
 
 }
