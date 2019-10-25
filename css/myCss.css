@@ -12,6 +12,12 @@ body{
     margin: 5px;
 }
 
+
+img{
+    max-width: 80%;
+    max-height: 80%;
+}
+
 header{
     border-bottom: 0.5px solid;
 }
@@ -54,4 +60,16 @@ header{
 
 .ExpertDetial{
 
+}
+
+.imagePart{
+    display: inline;
+    float: left;
+    width: 30%;
+}
+
+.detatilPart{
+    display: inline;
+    float: left;
+    width: 65%;
 }
