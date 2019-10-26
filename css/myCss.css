@@ -27,17 +27,19 @@ header{
     width: 100%;
     padding: 15px;
     background-color: white;
+    height: auto;
 }
 
 .headContent{
-    widows: 60%;
+    width: auto;
     display: inline-block;
-    float: left;
+    /* float: left; */
 }
 
 .headImage{
-    width: 30%;
+    width: auto;
     display: inline-block;
+    /* float: left; */
 }
 .HeadImg{
     width: 100px;
