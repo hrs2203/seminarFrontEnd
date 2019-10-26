@@ -1,0 +1,30 @@
+header{
+    padding: 5px;
+    background-color: white;
+    height: auto;
+}
+
+.headContent{
+    width: auto;
+    display: inline-block;
+    /* float: left; */
+}
+
+.headImage{
+    width: 64px;
+    display: inline-block;
+    /* float: left; */
+}
+.HeadImg{
+    width: 64px;
+    height: 64px;
+}
+
+#main_block_content{
+    width: 58%;
+}
+
+#ExpertDetailPage{
+    width: 40%;
+}
+

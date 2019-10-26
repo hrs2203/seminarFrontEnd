@@ -1,0 +1,46 @@
+header{
+    padding: 5px;
+    background-color: white;
+    height: auto;
+}
+
+.headContent{
+    width: 70%;
+    display: inliane-block;
+    /* float: left; */
+}
+
+.headContent h1{
+    word-wrap: break-word;
+    font-size: 2em;
+}
+
+.headImage{
+    width: 64px;
+    display: inline-block;
+    /* float: left; */
+}
+.HeadImg{
+    width: 64px;
+    height: 64px;
+}
+
+.hidingTime{
+    display: none;
+}
+
+#main_block_content{
+    width: 99%;
+}
+
+#ExpertDetailPage{
+    width: 99%;
+}
+
+.ExpertMeet{
+    font-weight: bolder;
+    color: black;
+    text-align: left;
+    padding-left: 3%;
+}
+

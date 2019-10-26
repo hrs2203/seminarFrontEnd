@@ -1,0 +1,7 @@
+    
+@import url("media1.css") (max-width: 1600px) and (min-width: 1251px);
+@import url("media2.css") (max-width: 1250px) and (min-width: 1081px);
+@import url("media3.css") (max-width: 1080px) and (min-width: 801px);
+@import url("media4.css") (max-width: 800px) and (min-width: 660px);
+@import url("media5.css") (max-width: 659px) and (min-width: 480px);
+@import url("media6.css") (max-width: 479px);

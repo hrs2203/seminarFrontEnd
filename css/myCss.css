@@ -31,9 +31,13 @@ header{
 }
 
 .headContent{
-    width: auto;
+    width: 70%;
     display: inline-block;
     /* float: left; */
+}
+
+.headContent h1{
+    word-wrap: break-word;
 }
 
 .headImage{
@@ -57,7 +61,7 @@ header{
 }
 
 #main_block_content{
-    width: 60%;
+    width: 63%;
 }
 
 #ExpertDetailPage{

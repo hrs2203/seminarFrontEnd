@@ -1,0 +1,49 @@
+header{
+    padding: 5px;
+    background-color: white;
+    height: auto;
+}
+
+.headContent{
+    width: auto;
+    display: inliane-block;
+    /* float: left; */
+}
+
+.headContent h1{
+    word-wrap: break-word;
+    font-size: 1.5em;
+}
+
+.headImage{
+    justify-content: space-around;
+    display: flex;
+    /* width: auto; */
+    /* display: inline-block; */
+    /* float: left; */
+}
+.HeadImg{
+    width: 30%;
+    float: left;
+    height: auto;
+}
+
+.hidingTime{
+    display: none;
+}
+
+#main_block_content{
+    width: 99%;
+}
+
+#ExpertDetailPage{
+    width: 99%;
+}
+
+.ExpertMeet{
+    font-weight: bolder;
+    color: black;
+    text-align: left;
+    padding-left: 3%;
+}
+
