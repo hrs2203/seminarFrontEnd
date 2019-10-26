@@ -98,8 +98,26 @@ header{
     /* float: left; */
     width: 65%;
 }
-
+.clear{
+    clear: both;
+}
 footer{
     background-color: white;
-    
+    padding-bottom: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.footerHead{
+    align-items: center;
+}
+
+#footTr{
+    display: flex;
+    justify-content: space-around;
+}
+
+.InstLogo{
+    max-height: 200px;
+    max-width: 200px;
 }
