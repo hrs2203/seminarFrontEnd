@@ -29,6 +29,21 @@ header{
     background-color: white;
 }
 
+.headContent{
+    widows: 60%;
+    display: inline-block;
+    float: left;
+}
+
+.headImage{
+    width: 30%;
+    display: inline-block;
+}
+.HeadImg{
+    width: 100px;
+    height: 100px;
+}
+
 .registerButton{
     float: right;
 }
